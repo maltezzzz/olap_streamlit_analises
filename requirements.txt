@@ -4,3 +4,5 @@ mysql-connector-python
 matplotlib
 openpyxl
 xlsxwriter
+plotly
+numpy
